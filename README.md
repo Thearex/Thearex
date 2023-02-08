@@ -6,4 +6,4 @@
 - 🌱 osaan koodata :D
 - 📫 Minuun saa yhteyttä parhaiten Discordissa Thearex12#9251
 
-<h3 align="center">©Thearex12 2022</h3>
+<h3 align="center">©Thearex12 2023</h3>
