@@ -1,5 +1,5 @@
 <h1 align="center">Hei olen Thearex12!</h1>
-<h3 align="center">Pöö</h3>
+<h3 align="center">Mitää sää täällä teet ;D</h3>
 
 - 👋 Hei olen @Thearex
 - 👀 Minä ylläpidän [**MegaMaa**](https://megamaa.com) nimistä minecraft palvelinta.
