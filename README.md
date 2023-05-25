@@ -2,8 +2,8 @@
 <h3 align="center">Mitää sää täällä teet ;D</h3>
 
 - 👋 Hei olen @Thearex
-- 👀 Minä ylläpidän [**MegaMaa**](https://megamaa.com) nimistä minecraft palvelinta.
-- 🌱 osaan koodata :D
+- 👀 Minä ylläpidän [**MegaPost**](https://megapost.fun) nimistä sosiaalisen median alustaa.
+- 🌱 Osaan koodata monia erillaisia koodikieliä.
 - 📫 Minuun saa yhteyttä parhaiten Discordissa Thearex12#9251
 
 <h3 align="center">©Thearex12 2023</h3>
