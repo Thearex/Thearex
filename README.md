@@ -4,6 +4,6 @@
 - 👋 Hei olen @Thearex
 - 👀 Minä ylläpidän [**MegaPost**](https://megapost.fun) nimistä sosiaalisen median alustaa.
 - 🌱 Osaan koodata monia erillaisia koodikieliä.
-- 📫 Minuun saa yhteyttä parhaiten Discordissa Thearex12#9251
+- 📫 Minuun saa yhteyttä parhaiten Discordissa Thearex12#
 
 <h3 align="center">©Thearex12 2023</h3>
